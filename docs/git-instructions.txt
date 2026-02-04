@@ -40,3 +40,6 @@
 
 11.-) Crear commit
       git commit -m "asunto"
+
+12.-) subir los cambios
+      git push origin main
