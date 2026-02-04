@@ -43,3 +43,11 @@
 
 12.-) subir los cambios
       git push origin main
+
+------------------------------------------------------------
+
+13.-) descargar últimos cambios del respositorio remoto
+      git pull origin main
+
+      Puede ocurrir que haya cambios locales que no se han subido al respositorio. Para descartarlos
+      git stash
