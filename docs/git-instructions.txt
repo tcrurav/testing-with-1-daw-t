@@ -1,0 +1,5 @@
+1.-) Inicializar el repositorio: (crea la carpeta oculta .git)
+     git init
+
+2.-) Indicar dónde se encuentra el respositorio remoto
+     git remote add origin url-del-respositorio
